@@ -1,0 +1,5 @@
+ScoreID,GameID,PlayerID,ScoreType,Score
+5001,1001,1,Goal,1
+5002,1002,2,Assist,2
+5003,1003,3,Goal,3
+5004,1004,4,Assist,1
